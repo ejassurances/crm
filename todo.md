@@ -56,5 +56,5 @@
 ## Phase 8 : Tests & Livraison
 - [x] Tests vitest pour les routeurs principaux (21 tests passés)
 - [x] Vérification isolation des données par rôle (FORBIDDEN sur toutes les procédures protégées)
-- [ ] Checkpoint final
-- [ ] Publication via bouton Publish
+- [x] Checkpoint final (version 1a2f78d6)
+- [ ] Publication via bouton Publish — à effectuer manuellement via l'interface (bouton Publish en haut à droite)
